@@ -1,12 +1,13 @@
 ## Introduction
 
 Plotto By William Wallace Cook (1928) https://en.wikipedia.org/wiki/William_Wallace_Cook
+https://archive.org/details/plottobywilliamwallacecook
 
 Uses xml from https://github.com/eykd/plottoxml but modified slightly to work better with lxml.
 
 Creates characters with first names and displays them, along with 3 different plot scenarios.  Although all characters mentioned in the system are generated, not all are used.
 
-If you're looking for a quick and easy skeleton of a fictional story, this will help you.
+If you're looking for a quick and easy skeleton of a fictional story, this will help you.  As you create your story, you will decide whether to use any of the input provided here as inspiration.
 
 ## Requirements
 
@@ -28,12 +29,14 @@ If you would like to save the output to a file:
 python plotto.py > plot.txt
 ```
 ## Wish List
+Implement transform tags, currently unused.
+
 Physical descriptions of characters, duplicate detection of names, some logic with character type.
 
 Cleaner code for the output.
 
 ## Example
-`
+```sh Output
 *** Protaganists ***
 Alan: male, protagonist - A Person Influenced by an Obligation
 Kai: female, protagonist - A Person Subjected to Adverse Conditions
@@ -114,4 +117,4 @@ Lead-up: Kai, an attractive girl, is so absorbed in serious pursuits that she su
 Plot: Seeking by unusual methods to conquer personal limitations. - Alan, seeking desperately his chance to propose marriage to Kai, rescues her from drowning, and proposes while they are clinging to an overturned boat.
 Carry-on: Kai is unable to marry Alan because her father, Asher, in using Kai for his subject in a scientific experiment, has instilled a poison into her blood.
 Outcome: Reverses certain opinions when their fallacy is revealed.
-`
+```
