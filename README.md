@@ -28,6 +28,8 @@ If you would like to save the output to a file:
 python plotto.py > plot.txt
 ```
 ## Wish List
+Implement transform tags, currently unused.
+
 Physical descriptions of characters, duplicate detection of names, some logic with character type.
 
 Cleaner code for the output.
