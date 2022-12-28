@@ -1,6 +1,7 @@
 ## Introduction
 
 Plotto By William Wallace Cook (1928) https://en.wikipedia.org/wiki/William_Wallace_Cook
+https://archive.org/details/plottobywilliamwallacecook
 
 Uses xml from https://github.com/eykd/plottoxml but modified slightly to work better with lxml.
 
