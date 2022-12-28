@@ -6,7 +6,7 @@ Uses xml from https://github.com/eykd/plottoxml but modified slightly to work be
 
 Creates characters with first names and displays them, along with 3 different plot scenarios.  Although all characters mentioned in the system are generated, not all are used.
 
-If you're looking for a quick and easy skeleton of a fictional story, this will help you.
+If you're looking for a quick and easy skeleton of a fictional story, this will help you.  As you create your story, you will decide whether to use any of the input provided here as inspiration.
 
 ## Requirements
 
