@@ -8593,8 +8593,8 @@
     </conflict>
     <conflict id="181b" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
-        <permutation number="1"><description>%A%’s son, SN, is determined to marry %B%, whom %A% thinks is unworthy.</description></permutation>
-        <permutation number="2"><description>%A%, seeking to prevent his son, SN, from marrying %B%, makes love to %B% and plans to marry her himself.</description></permutation>
+        <permutation number="1"><description>%A%’s son, %SN-A%, is determined to marry %B%, whom %A% thinks is unworthy.</description></permutation>
+        <permutation number="2"><description>%A%, seeking to prevent his son, %SN-A%, from marrying %B%, makes love to %B% and plans to marry her himself.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -25579,7 +25579,7 @@
     </conflict>
     <conflict id="622" category="Enterprise" subcategory="Misfortune">
       <permutations>
-        <permutation number="1"><description>%A% mistakenly supposes his son, SN, to have perished in a tragic accident.</description></permutation>
+        <permutation number="1"><description>%A% mistakenly supposes his son, %SN-A%, to have perished in a tragic accident.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -27296,7 +27296,7 @@
     </conflict>
     <conflict id="674" category="Enterprise" subcategory="Misfortune">
       <permutations>
-        <permutation number="1"><description>%A% loses his son, SN, in whom all his ambitions were centered.</description></permutation>
+        <permutation number="1"><description>%A% loses his son, %SN-A%, in whom all his ambitions were centered.</description></permutation>
         <permutation number="2"><description>%A% struggles against an overwhelming sorrow that proves an obstacle to enterprise and holds his abilities in subjection.</description></permutation>
       </permutations>
       <lead_ups>
@@ -31695,8 +31695,8 @@
     </conflict>
     <conflict id="800" category="Enterprise" subcategory="Mistaken Judgment">
       <permutations>
-        <permutation number="1"><description>%B% has a weird delusion regarding her son, SN.</description></permutation>
-        <permutation number="2"><description>%B% considers her son, SN, brilliant and highly talented, whereas he is less than mediocre in mentality.</description></permutation>
+        <permutation number="1"><description>%B% has a weird delusion regarding her son, %SN-B%.</description></permutation>
+        <permutation number="2"><description>%B% considers her son, %SN-B%, brilliant and highly talented, whereas he is less than mediocre in mentality.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -32157,8 +32157,8 @@
     <conflict id="810" category="Enterprise" subcategory="Helpfulness">
       <permutations>
         <permutation number="1"><description>%A% is old, believes he is slipping in his work, and considers himself a failure.</description></permutation>
-        <permutation number="2"><description>%A%’s son, SN, wins for his college in a gruelling contest; and SN tells %A%, who is gloomy and despairing and considers himself a failure, that his success was inspired by the thought that his father had never been beaten.</description></permutation>
-        <permutation number="3"><description>%A% is inspired to carry on successfully in his profession because of the faith his son, SN, has in him.</description></permutation>
+        <permutation number="2"><description>%A%’s son, %SN-A%, wins for his college in a gruelling contest; and SN tells %A%, who is gloomy and despairing and considers himself a failure, that his success was inspired by the thought that his father had never been beaten.</description></permutation>
+        <permutation number="3"><description>%A% is inspired to carry on successfully in his profession because of the faith his son, %SN-A%, has in him.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -32259,7 +32259,7 @@
     </conflict>
     <conflict id="813" category="Enterprise" subcategory="Helpfulness">
       <permutations>
-        <permutation number="1"><description>%A% seeks to protect his son, SN, from what he conceives to be disgrace and dishonor on his own part.</description></permutation>
+        <permutation number="1"><description>%A% seeks to protect his son, %SN-A%, from what he conceives to be disgrace and dishonor on his own part.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -32677,8 +32677,8 @@
     </conflict>
     <conflict id="821" category="Enterprise" subcategory="Helpfulness">
       <permutations>
-        <permutation number="1"><description>%A%’s son, SN, is arrested for committing a crime.</description></permutation>
-        <permutation number="2"><description>%A% seeks to save his son, SN, from misfortune and becomes involved in an unpleasant complication.</description></permutation>
+        <permutation number="1"><description>%A%’s son, %SN-A%, is arrested for committing a crime.</description></permutation>
+        <permutation number="2"><description>%A% seeks to save his son, %SN-A%, from misfortune and becomes involved in an unpleasant complication.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -34896,9 +34896,9 @@
     </conflict>
     <conflict id="881" category="Enterprise" subcategory="Deliverance">
       <permutations>
-        <permutation number="1"><description>%A% has turned his back upon happiness because of an obligation he fancies himself under to his son, SN.</description></permutation>
+        <permutation number="1"><description>%A% has turned his back upon happiness because of an obligation he fancies himself under to his son, %SN-A%.</description></permutation>
         <permutation number="2">
-          <description>%A%’s son, SN, discovers a fateful secret of %A%’s, and persuades him to correct an error and regain lost happiness.</description>
+          <description>%A%’s son, %SN-A%, discovers a fateful secret of %A%’s, and persuades him to correct an error and regain lost happiness.</description>
           <includes>
             <group mode="choose">
               <conflict_link ref="425" category="Married Life" subcategory="Marriage"/>
@@ -35455,8 +35455,8 @@
     </conflict>
     <conflict id="896" category="Enterprise" subcategory="Deliverance">
       <permutations>
-        <permutation number="1"><description>%B% learns that her son, SN, is suspected of having committed a crime.</description></permutation>
-        <permutation number="2"><description>%B% knows that her son, SN, is innocent of the crime of which he is accused, and she knows who is guilty, but this knowledge makes the task of protecting SN dangerous and difficult.</description></permutation>
+        <permutation number="1"><description>%B% learns that her son, %SN-B%, is suspected of having committed a crime.</description></permutation>
+        <permutation number="2"><description>%B% knows that her son, %SN-B%, is innocent of the crime of which he is accused, and she knows who is guilty, but this knowledge makes the task of protecting SN dangerous and difficult.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -36621,8 +36621,8 @@
     </conflict>
     <conflict id="928b" category="Enterprise" subcategory="Idealism">
       <permutations>
-        <permutation number="1"><description>%A% is proud of his son, SN.</description></permutation>
-        <permutation number="2"><description>%A%’s son, SN, dies a shameful, inglorious death, bringing dishonor and sorrow to %A%.</description></permutation>
+        <permutation number="1"><description>%A% is proud of his son, %SN-A%.</description></permutation>
+        <permutation number="2"><description>%A%’s son, %SN-A%, dies a shameful, inglorious death, bringing dishonor and sorrow to %A%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -38738,7 +38738,7 @@
     <conflict id="994" category="Enterprise" subcategory="Obligation">
       <permutations>
         <permutation number="1"><description>%B%, a widow, finds her happiness in being independent.</description></permutation>
-        <permutation number="2"><description>%B%, a widow, is compelled by family obligations to live with a married son, SN.</description></permutation>
+        <permutation number="2"><description>%B%, a widow, is compelled by family obligations to live with a married son, %SN-B%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -39320,8 +39320,8 @@
     </conflict>
     <conflict id="1009b" category="Enterprise" subcategory="Obligation">
       <permutations>
-        <permutation number="1"><description>%B%, a widow, has given all her money to her son, SN.</description></permutation>
-        <permutation number="2"><description>%B%, penniless, is compelled to live with her son, SN.</description></permutation>
+        <permutation number="1"><description>%B%, a widow, has given all her money to her son, %SN-B%.</description></permutation>
+        <permutation number="2"><description>%B%, penniless, is compelled to live with her son, %SN-B%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -40791,7 +40791,7 @@
     <conflict id="1053" category="Enterprise" subcategory="Chance">
       <permutations>
         <permutation number="1"><description>%A% hears by chance a familiar name, and the name solves a riddle of the past.</description></permutation>
-        <permutation number="2"><description>%A%, hearing by chance a familiar name, finds his long-lost son, SN.</description></permutation>
+        <permutation number="2"><description>%A%, hearing by chance a familiar name, finds his long-lost son, %SN-B%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -40882,7 +40882,7 @@
       <permutations>
         <permutation number="1"><description>%A%, hiding in a place where there is no food, steals from the larder of his nearest neighbor, %A-4%.</description></permutation>
         <permutation number="2"><description>%A-4%, missing food from his larder, half believes it was taken by a “ghost”.</description></permutation>
-        <permutation number="3"><description>A, a supposed ghost, is caught in a trap set by %A-4%; and %A-4% proves to be %A%’s missing son, SN.</description></permutation>
+        <permutation number="3"><description>A, a supposed ghost, is caught in a trap set by %A-4%; and %A-4% proves to be %A%’s missing son, %SN-B%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="include">
@@ -42505,7 +42505,7 @@
     </conflict>
     <conflict id="1108" category="Enterprise" subcategory="Personal Limitations">
       <permutations>
-        <permutation number="1"><description>%A% is so preoccupied with business affairs that, while he intends writing to his son, SN, he somehow never gets around to it.</description></permutation>
+        <permutation number="1"><description>%A% is so preoccupied with business affairs that, while he intends writing to his son, %SN-A%, he somehow never gets around to it.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -45501,8 +45501,8 @@
     </conflict>
     <conflict id="1196" category="Enterprise" subcategory="Simulation">
       <permutations>
-        <permutation number="1"><description>%A% is mistaken by %B% for her son, SN.</description></permutation>
-        <permutation number="2"><description>%A%, mistaken by a dying woman, %B%, for her son, SN, altruistically fosters the delusion in order to give %B% a few last moments of earthly comfort.</description></permutation>
+        <permutation number="1"><description>%A% is mistaken by %B% for her son, %SN-B%.</description></permutation>
+        <permutation number="2"><description>%A%, mistaken by a dying woman, %B%, for her son, %SN-B%, altruistically fosters the delusion in order to give %B% a few last moments of earthly comfort.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -48998,7 +48998,7 @@
     </conflict>
     <conflict id="1289a" category="Enterprise" subcategory="Craftiness">
       <permutations>
-        <permutation number="1"><description>%A% is a wealthy man whom sharpers, %A-5%, %A-5%, are seeking to influence to disinherit a son, SN.</description></permutation>
+        <permutation number="1"><description>%A% is a wealthy man whom sharpers, %A-5%, %A-5%, are seeking to influence to disinherit a son, %SN-B%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
@@ -55171,7 +55171,7 @@
     </conflict>
     <conflict id="1450" category="Enterprise" subcategory="Revelation">
       <permutations>
-        <permutation number="1"><description>%A% is compelled to alter certain plans very materially when he makes the astounding discovery that he is the father of %B%’s son, SN.</description></permutation>
+        <permutation number="1"><description>%A% is compelled to alter certain plans very materially when he makes the astounding discovery that he is the father of %B%’s son, %SN-B%.</description></permutation>
       </permutations>
       <lead_ups>
         <group mode="choose">
