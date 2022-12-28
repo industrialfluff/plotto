@@ -33,8 +33,8 @@ Physical descriptions of characters, duplicate detection of names, some logic wi
 Cleaner code for the output.
 
 ## Example
-`
-`*** Protaganists ***`
+```sh Output
+*** Protaganists ***
 Alan: male, protagonist - A Person Influenced by an Obligation
 Kai: female, protagonist - A Person Subjected to Adverse Conditions
 
@@ -114,4 +114,4 @@ Lead-up: Kai, an attractive girl, is so absorbed in serious pursuits that she su
 Plot: Seeking by unusual methods to conquer personal limitations. - Alan, seeking desperately his chance to propose marriage to Kai, rescues her from drowning, and proposes while they are clinging to an overturned boat.
 Carry-on: Kai is unable to marry Alan because her father, Asher, in using Kai for his subject in a scientific experiment, has instilled a poison into her blood.
 Outcome: Reverses certain opinions when their fallacy is revealed.
-`
+```
