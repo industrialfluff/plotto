@@ -34,7 +34,7 @@ Cleaner code for the output.
 
 ## Example
 `
-*** Protaganists ***
+`*** Protaganists ***`
 Alan: male, protagonist - A Person Influenced by an Obligation
 Kai: female, protagonist - A Person Subjected to Adverse Conditions
 
